@@ -21,3 +21,6 @@ WITH (FORMAT CSV, HEADER);
 COPY public.order_items 
 FROM 'C:\Users\Public\olist_order_items_dataset.csv' 
 WITH (FORMAT CSV, HEADER);
+
+
+    
